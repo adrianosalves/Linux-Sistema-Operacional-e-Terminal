@@ -78,6 +78,42 @@ rm -r* - excluir todos os arquivos da pasta
 
 Dica: Acessar o o site guiafoca.org baixar apostilas sobre linux e praticar....
 
+# Revisão:
+
+cat /proc/cpuinfor - Arquivo de informações do processador
+
+lscpu - Exibe informações do processador
+
+cat /proc/meminfo - Arquivo de informações da memoria
+
+free - Exibe informações da memoria fisica e virtual
+
+lshw - Exibe informações detalhadas sobre o hardware
+
+lshw --shor - Exibe informações sobre hardware
+
+uname - Exibe o nome do Kernel do sistema
+
+uname -r - Exibe a versão do Kernel
+
+uname -m - Exibe a arquitetura do Kernel
+
+arch - Exibe a arquitetura do Kernel
+
+lspci - Exibe todas as placas PCI conectadas
+
+lsubs - Exibe todas as dispositivos USB conectadas
+
+du -h ~ - Exibe o espaço que cada arquivo e pasta pessoa consome no hd
+
+reboot - reinicia o sistema
+
+shutdown -r - reinicia o sistema
+
+shutdown -h now - Desliga o sistema
+
+
+
 
 
 

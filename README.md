@@ -74,6 +74,10 @@ whatis - exibe uma explicacao sobre um comando
 
 && - Usado para que dois comandos so sejam executados se o primeiro for executado com sucesso.
 
+rm -r* - excluir todos os arquivos da pasta
+
+Dica: Acessar o o site guiafoca.org baixar apostilas sobre linux e praticar....
+
 
 
 

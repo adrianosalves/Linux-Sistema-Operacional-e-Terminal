@@ -64,11 +64,11 @@ date - exibe a data atual
 
 whatis - exibe uma explicacao sobre um comando
 
-> - Redireciona a saida de um comando para outro comando ou arquivo
+'>' - Redireciona a saida de um comando para outro comando ou arquivo
 
->> - Redireciona a saida e adiciona a mesma para outro comando ou arquivo
+'>>' - Redireciona a saida e adiciona a mesma para outro comando ou arquivo
 
-< - Direciona a entrada de um arquivo para a saida de um comando
+'<' - Direciona a entrada de um arquivo para a saida de um comando
 
 & - Este operador permite usar dois comandos e separar suas saidas no terminal
 
